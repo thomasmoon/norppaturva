@@ -9,19 +9,19 @@ __Author:__ Independent Proposal by Thomas Moon
 
 ## Executive Summary
 
-The Saimaa ringed seal (*Pusa saimensis*) is one of the world's rarest seal species and is found exclusively in Finland's Lake Saimaa. Despite remarkable conservation success over recent decades, the population remains vulnerable due to its small size, limited genetic diversity, climate-related breeding challenges, and continued mortality in fishing gear. Recent population estimates place the population at approximately 530 individuals, while fishing gear mortality remains one of the most significant verified causes of death.
+The Saimaa ringed seal (*Pusa saimensis*) is one of the world's rarest seal species and is found exclusively in Finland's Lake Saimaa. Despite remarkable conservation success over recent decades, the population remains vulnerable due to its small size, limited genetic diversity, climate-related breeding challenges, and continued mortality in fishing equipment. Recent population estimates place the population at approximately 530 individuals, while fishing equipment mortality remains one of the most significant verified causes of death.
 
-In 2026, at least ten fishing-gear-related seal deaths had already been reported by mid-July, exceeding the long-term average. Some cases involved illegal or improperly marked fishing gear, highlighting the continuing challenge of preventing non-compliant fishing practices within seal habitat.
+In 2026, at least ten fishing-equipment-related seal deaths had already been reported by mid-July, exceeding the long-term average. Some cases involved illegal or improperly marked fishing equipment, highlighting the continuing challenge of preventing non-compliant fishing practices within seal habitat.
 
 This white paper proposes a pilot project, __NorppaTurva__, combining:
 
-1. A digital fishing gear registry;
+1. A digital fishing equipment registry;
 2. Risk-based monitoring of high-priority seal habitat;
-3. Drone-assisted detection of fishing gear markers;
+3. Drone-assisted detection of fishing equipment markers;
 4. Targeted patrol inspections;
 5. Data-driven evaluation of enforcement outcomes.
 
-The objective is not to replace existing conservation measures, but to assess whether modern monitoring tools can improve detection of unregistered fishing gear and increase the effectiveness of enforcement efforts.
+The objective is not to replace existing conservation measures, but to assess whether modern monitoring tools can improve detection of unregistered fishing equipment and increase the effectiveness of enforcement efforts.
 
 ## 1. Introduction
 
@@ -31,13 +31,13 @@ However, recovery remains incomplete.
 
 The species continues to face multiple threats:
 
-- Bycatch in fishing gear;
+- Bycatch in fishing equipment;
 - Climate change;
 - Habitat disturbance;
 - Small population size;
 - Limited genetic diversity.
 
-The purpose of this proposal is to investigate whether modern monitoring technologies can contribute to reducing one of these threats: fishing-gear mortality.
+The purpose of this proposal is to investigate whether modern monitoring technologies can contribute to reducing one of these threats: fishing-equipment mortality.
 
 ## 2. Background
 
@@ -47,9 +47,9 @@ The Saimaa ringed seal is endemic to Lake Saimaa in southeastern Finland and has
 
 Recent population estimates indicate approximately 530 individuals, reflecting substantial recovery from historical lows. Nevertheless, the population remains small from a conservation perspective, making each mortality event significant.
 
-### 2.2 Fishing-Gear Mortality
+### 2.2 Fishing-Equipment Mortality
 
-Research identifies accidental capture in fishing gear as one of the most significant human-caused threats to the species. Over the past three decades, bycatch has been the most frequently verified cause of death.
+Research identifies accidental capture in fishing equipment as one of the most significant human-caused threats to the species. Over the past three decades, bycatch has been the most frequently verified cause of death.
 
 Jounela et al. (2024) found that:
 
@@ -60,7 +60,7 @@ Jounela et al. (2024) found that:
 
 ### 2.3 Recent Cases
 
-In July 2026, Metsähallitus reported the tenth known fishing-gear-related seal death of the year. The latest case involved an illegal trap lacking required markings and ownership information. The trap exceeded permitted specifications and was discovered only after a member of the public reported a dead seal.
+In July 2026, Metsähallitus reported the tenth known fishing-equipment-related seal death of the year. The latest case involved an illegal trap lacking required markings and ownership information. The trap exceeded permitted specifications and was discovered only after a member of the public reported a dead seal.
 
 Such incidents raise questions regarding detection, enforcement, and prevention mechanisms.
 
@@ -79,11 +79,11 @@ Current enforcement relies largely upon:
 - Public reporting;
 - Post-incident investigations.
 
-In some cases, illegal gear may remain in the water for extended periods without detection.
+In some cases, illegal equipment may remain in the water for extended periods without detection.
 
 ### 3.3 Key Question
 
-Can modern monitoring systems improve the identification of unregistered fishing gear before it causes harm to protected wildlife?
+Can modern monitoring systems improve the identification of unregistered fishing equipment before it causes harm to protected wildlife?
 
 ## 4. Scientific Basis
 
@@ -99,7 +99,7 @@ This suggests that surveillance and enforcement may also be prioritized spatiall
 
 ###  4.3 Bycatch Mitigation
 
-Research indicates that fishing restrictions reduce mortality risk. However, restrictions alone cannot completely eliminate mortality arising from illegal, unregistered, or non-compliant fishing gear.
+Research indicates that fishing restrictions reduce mortality risk. However, restrictions alone cannot completely eliminate mortality arising from illegal, unregistered, or non-compliant fishing equipment.
 
 ## 5. NorppaTurva Concept
 
@@ -115,19 +115,20 @@ NorppaTurva is based on five principles:
 
 ### 5.2 Core Idea
 
-Rather than attempting to identify illegal gear directly from the air, the system seeks to identify fishing markers that may not correspond to registered fishing gear.
+Rather than attempting to identify illegal equipment directly from the air, the system seeks to identify fishing markers that may not correspond to registered fishing equipment.
 
 The objective is not to automate law enforcement but to prioritize inspection efforts.
 
-## 6. Digital Gear Registry
+## 6. Digital Fishing Equipment Registry
+
 ### 6.1 Purpose
 
-A digital registry would create a database of fishing gear operating within designated seal conservation areas.
+A digital registry would create a database of fishing equipment operating within designated seal conservation areas.
 
 Potential data fields:
 
-- Gear identifier;
-- Gear type;
+- Fishing equipment identifier;
+- Equipment type;
 - Permit information;
 - Fishing area;
 - Registration status.
@@ -139,7 +140,7 @@ Potential benefits include:
 - More effective enforcement;
 - Better data collection;
 - Improved transparency;
-- Easier reporting of lost fishing gear.
+- Easier reporting of lost fishing equipment.
 
 ### 6.3 Pilot Scope
 
@@ -165,7 +166,7 @@ Instead, drones would:
 
 Based on current drone capabilities, floating fishing markers are likely detectable under favourable conditions using visual imaging systems.
 
-The main technical challenge is not detection itself but distinguishing compliant and non-compliant gear.
+The main technical challenge is not detection itself but distinguishing compliant and non-compliant fishing equipment.
 
 ### 7.3 Monitoring Schedule
 
@@ -177,23 +178,11 @@ Event-triggered surveys following incidents.
 
 The pilot should evaluate the most cost-effective schedule.
 
-## 8. Risk-Based Enforcement
+## 8. Targeted Monitoring
 
 ### 8.1 Workflow
 
-```mermaid
-flowchart TD
-    A[Drone Survey]
-    A --> B[Detect Marker]
-    B --> C[Registry Comparison]
-    C -->|Match Found| D[No Action]
-    C -->|No Match| E[Flag Location]
-    E --> F[Patrol Inspection]
-    F --> G{Compliant?}
-    G -->|Yes| H[Update Registry]
-    G -->|No| I[Enforcement Action]
-    I --> J[Future Monitoring]
-```
+![Diagram of of monitoring workflow](images/workflow.png)
 
 ### 8.2 Patrol Prioritization
 
@@ -265,13 +254,13 @@ A pilot should establish measurable outcomes:
 ### Enforcement
 
 - Number of inspections;
-- Number of unregistered gear detections;
+- Number of unregistered fishing equipment detections;
 - Time to inspection.
 
 ### Conservation
 
-- Fishing-gear mortality trends;
-- Incidents involving illegal gear;
+- Fishing-equipment mortality trends;
+- Incidents involving illegal equipment;
 - Spatial distribution of risk.
 
 ### Operational
@@ -293,9 +282,9 @@ These uncertainties reinforce the need for a pilot project rather than immediate
 
 ## 13. Conclusions
 
-The recovery of the Saimaa ringed seal is one of Finland's greatest conservation successes. However, recent mortality events demonstrate that fishing-gear-related deaths remain a persistent challenge.
+The recovery of the Saimaa ringed seal is one of Finland's greatest conservation successes. However, recent mortality events demonstrate that fishing-equipment-related deaths remain a persistent challenge.
 
-NorppaTurva proposes a research-driven pilot evaluating whether digital gear registration, drone-assisted observation, and risk-based enforcement can improve detection of unregistered fishing gear in critical seal habitat.
+NorppaTurva proposes a research-driven pilot evaluating whether digital registration, drone-assisted observation, and targeted monitoring can improve detection of illegal fishing equipment in critical seal habitat.
 
 The proposal does not assume success.
 
@@ -315,4 +304,4 @@ Niemi, Marja, Miina Auttila, Markku Viljanen, and Mervi Kunnasranta. 2012. “Mo
 
 Metsähallitus. 2025 Population Estimate and Saimaa Ringed Seal Monitoring Reports.
 
-Yle News and related reporting on 2026 fishing-gear mortality incidents.
+Yle News and related reporting on 2026 fishing equipment mortality incidents.
