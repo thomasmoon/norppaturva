@@ -1,6 +1,6 @@
 # NorppaTurva White Paper
 
-Proposal for a digital fishing equipment registry and targeted monitoring for the protection of the Saimaa ringed seal
+Proposal for a digital fishing equipment registry and targeted monitoring to protect the endangered Saimaa ringed seal
 
 ![Image of postage stamp with Saimaa ringed seal from 1986](images/Stamp_of_Finland_-_1986_-_Colnect_47106_-_Saimaa_Ringed_Seal_Pusa_hispida_salmensis.jpeg)
 
