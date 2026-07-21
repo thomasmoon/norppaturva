@@ -179,9 +179,9 @@ The main technical challenge is not detection itself but distinguishing complian
 
 Potential monitoring options include:
 
-Monthly surveys;
-Bi-weekly surveys;
-Event-triggered surveys following incidents.
+- Monthly surveys;
+- Bi-weekly surveys;
+- Event-triggered surveys following incidents.
 
 The pilot should evaluate the most cost-effective schedule.
 
