@@ -1,17 +1,17 @@
-# NorppaTurva
+# NorppaTurva White Paper
 
-Digital fishing equipment registration and targeted monitoring for the protection of the Saimaa ringed seal
+Proposal for a digital fishing equipment registry and targeted monitoring for the protection of the Saimaa ringed seal
+
+![Image of postage stamp with Saimaa ringed seal from 1986](images/Stamp_of_Finland_-_1986_-_Colnect_47106_-_Saimaa_Ringed_Seal_Pusa_hispida_salmensis.jpeg)
 
 __Date:__ 21 July 2026  
 __Project:__ NorppaTurva  
 __Status:__ Public Discussion Draft  
-__Author:__ Independent Proposal by Thomas Moon  
+__Author:__ Independent Proposal by Forester Thomas Moon  
 
 ## Executive Summary
 
 The Saimaa ringed seal (*Pusa saimensis*) is one of the world's rarest seal species and is found exclusively in Finland's Lake Saimaa. Despite remarkable conservation success over recent decades, the population remains vulnerable due to its small size, limited genetic diversity, climate-related breeding challenges, and continued mortality in fishing equipment. Recent population estimates place the population at approximately 530 individuals, while fishing equipment mortality remains one of the most significant verified causes of death.
-
-![Image of postage stamp with Saimaa ringed seal from 1986](images/Stamp_of_Finland_-_1986_-_Colnect_47106_-_Saimaa_Ringed_Seal_Pusa_hispida_salmensis.jpeg)
 
 In 2026, at least ten fishing-equipment-related seal deaths had already been reported by mid-July, exceeding the long-term average. Some cases involved illegal or improperly marked fishing equipment, highlighting the continuing challenge of preventing non-compliant fishing practices within seal habitat.
 
