@@ -1,3 +1,8 @@
+---
+layout: default
+title: NorppaTurva
+---
+
 # NorppaTurva White Paper
 
 Proposal for a digital fishing equipment registry and targeted monitoring to protect the endangered Saimaa ringed seal
